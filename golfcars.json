@@ -1,0 +1,158 @@
+{
+"request": [
+{
+"id": 1,
+"name": "Mo",
+"latitude": 30.072073,
+"longitude": 30.941948,
+"price": 4.99,
+"imageUrl": "https://heavy64.github.io/golfcars/images/2SeatVehicle.png",
+"chargeRate": 90,
+"seats": 2,
+"distance": 140
+},
+{
+"id": 2,
+"name": "Sara",
+"latitude": 30.070594,
+"longitude": 30.939071,
+"price": 5.99,
+"imageUrl": "https://heavy64.github.io/golfcars/images/6SeatVehicle.png",
+"chargeRate": 60,
+"seats": 6,
+"distance": 152
+},
+{
+"id": 3,
+"name": "Kimo",
+"latitude": 30.065047,
+"longitude": 30.934015,
+"price": 4.99,
+"imageUrl": "https://heavy64.github.io/golfcars/images/4SeatVehicle.png",
+"chargeRate": 80,
+"seats": 4,
+"distance": 66
+},
+{
+"id": 4,
+"name": "Tara",
+"latitude": 30.055669,
+"longitude": 30.946605,
+"price": 6.99,
+"imageUrl": "https://heavy64.github.io/golfcars/images/4SeatVehicle.png",
+"chargeRate": 98,
+"seats": 4,
+"distance": 200
+},
+{
+"id": 5,
+"name": "Nino",
+"latitude": 30.068440, 
+"longitude": 30.957179,
+"price": 5.99,
+"imageUrl": "https://heavy64.github.io/golfcars/images/2SeatVehicle.png",
+"chargeRate": 88,
+"seats": 2,
+"distance": 400
+},
+{
+"id": 6,
+"name": "Mina",
+"latitude": 30.078401, 
+"longitude": 30.954003,
+"price": 6.99,
+"imageUrl": "https://heavy64.github.io/golfcars/images/6SeatVehicle.png",
+"chargeRate": 91,
+"seats": 6,
+"distance": 300
+},
+{
+"id": 7,
+"name": "Layla",
+"latitude": 30.067614, 
+"longitude": 30.965884,
+"price": 4.99,
+"imageUrl": "https://heavy64.github.io/golfcars/images/2SeatVehicle.png",
+"chargeRate": 90,
+"seats": 2,
+"distance": 320
+},
+{
+"id": 8,
+"name": "Lea",
+"latitude": 30.066156, 
+"longitude": 30.962714,
+"price": 4.99,
+"imageUrl": "https://heavy64.github.io/golfcars/images/2SeatVehicle.png",
+"chargeRate": 46,
+"seats": 2,
+"distance": 420
+},
+{
+"id": 9,
+"name": "Bibi",
+"latitude": 30.076141, 
+"longitude": 30.949153,
+"price": 4.99,
+"imageUrl": "https://heavy64.github.io/golfcars/images/2SeatVehicle.png",
+"chargeRate": 56,
+"seats": 2,
+"distance": 520
+},
+{
+"id": 10,
+"name": "Habibi",
+"latitude": 30.070705, 
+"longitude": 30.937038,
+"price": 4.99,
+"imageUrl": "https://heavy64.github.io/golfcars/images/2SeatVehicle.png",
+"chargeRate": 76,
+"seats": 2,
+"distance": 510
+},
+{
+"id": 11,
+"name": "Amura",
+"latitude": 30.066920, 
+"longitude": 30.934117,
+"price": 5.99,
+"imageUrl": "https://heavy64.github.io/golfcars/images/2SeatVehicle.png",
+"chargeRate": 29,
+"seats": 2,
+"distance": 540
+},
+{
+"id": 12,
+"name": "Amira",
+"latitude": 30.069821, 
+"longitude": 30.935638,
+"price": 5.99,
+"imageUrl": "https://heavy64.github.io/golfcars/images/4SeatVehicle.png",
+"chargeRate": 99,
+"seats": 4,
+"distance": 550
+},
+{
+"id": 13,
+"name": "Rami",
+"latitude": 30.055421, 
+"longitude": 30.942450,
+"price": 7.99,
+"imageUrl": "https://heavy64.github.io/golfcars/images/4SeatVehicle.png",
+"chargeRate": 15,
+"seats": 4,
+"distance": 950
+},
+{
+"id": 14,
+"name": "Shushu",
+"latitude": 30.058557, 
+"longitude": 30.939760,
+"price": 4.99,
+"imageUrl": "https://heavy64.github.io/golfcars/images/2SeatVehicle.png",
+"chargeRate": 90,
+"seats": 2,
+"distance": 1130
+}
+]
+}
